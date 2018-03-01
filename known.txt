@@ -1,0 +1,3 @@
+adjcent ADJCENT 邻接
+adjective ADJECTIVE 形容词
+
